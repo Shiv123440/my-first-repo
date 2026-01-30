@@ -1,3 +1,3 @@
 # my-first-repo
 <br>
-I am new to github
+I am new to github but  not with you
